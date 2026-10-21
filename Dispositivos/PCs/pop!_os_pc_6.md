@@ -1,6 +1,6 @@
 # 🖥️ Registro de Equipo: Pop!_OS
 
-**Descripción/Ubicación en la sala:** [ESCRIBE AQUÍ QUÉ PC ES EN LA SALA]
+**Descripción/Ubicación en la sala:** [Pc 6 en la sala]
 
 ---
 

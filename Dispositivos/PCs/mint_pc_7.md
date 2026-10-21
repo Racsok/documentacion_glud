@@ -1,6 +1,6 @@
 # 🖥️ Registro de Equipo: Linux Mint
 
-**Descripción/Ubicación en la sala:** [ESCRIBE AQUÍ QUÉ PC ES EN LA SALA]
+**Descripción/Ubicación en la sala:** [Pc 7 en la sala]
 
 ---
 
